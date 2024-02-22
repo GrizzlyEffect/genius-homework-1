@@ -1,0 +1,21 @@
+:root {
+  --color-primery-blue: 2B7FFF;
+  --color-primery-dark: 011C44;
+  --color-primery-light: ffffff;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.header-link {
+  color: var(--color-primary-light);
+}
+
+.header-link:hover {
+  color: var(--color-primery-blue);
+}
+
+.footer-link {
+  color: var(--color-primary-light);
+}
